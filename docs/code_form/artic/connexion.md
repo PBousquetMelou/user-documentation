@@ -1,10 +1,10 @@
 ---
-title: "Se connecter à Boréale"
+title: "Se connecter à Arctic"
 ---
 
-# Comment se connecter à Boréale
+# Comment se connecter à Arctic
 
-La connexion s'effectue en SSH vers les frontales regroupées sous le nom arctic.criann.fr.
+La connexion s'effectue en SSH vers la frontale de nom arctic.criann.fr.
 
 **Syntaxe en ligne de commande** : `ssh -l monlogin arctic.criann.fr` (en remplaçant `monlogin` par votre identifiant). Les environnements Linux et Mac intègrent nativement le protocole SSH via un terminal. Si vous êtes sous environnement Windows, nous vous recommandons d'utiliser le logiciel [MobaXTerm](https://mobaxterm.mobatek.net/) qui vous apportera un environnement de travail complet basé du protocole ssh (export d'écran, transfert de fichiers).
 
@@ -20,5 +20,5 @@ Si votre structure a un **firewall** limitant les flux en sortie de votre site, 
 
 - Connexions SSH (port 22) vers la frontale de nom `arctic.criann.fr`
   - IPv4 : `195.xxx.xx.xxx`
-Concernant les sessions de visualisation à distance, pour connaître les IP et les ports à ouvrir, [merci de contacter le support par mail](mailto:support-boreale@criann.fr).
+Concernant les sessions de visualisation à distance, pour connaître les IP et les ports à ouvrir, [merci de contacter le support par mail](mailto:support@criann.fr).
 :::
