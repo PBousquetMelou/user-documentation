@@ -5,8 +5,9 @@ Parmi les entités de service « Code formation » de MesoNET, Arctic est matér
 
 Le service est accessible à des projets d'enseignement ou de développement d'application en IA ou HPC.
 
-En fonction de la nature d'un projet et du profil de ses applications, différents sous-ensembles (voir **Description** et **Environnements logiciels**) d'architecture peuvent être attribuées : ressources purement CPU (AMD Genoa), ressources GPU AMD MI210, GPU NVIDIA A100 ou H200.
+En fonction de la nature d'un projet et du profil de ses applications, différents sous-ensembles (voir [Description](./description.md) et [Environnements logiciels](./logiciels.md) d'architecture peuvent être attribuées : ressources purement CPU (AMD Genoa), ressources GPU AMD MI210, GPU NVIDIA A100 ou H200.
 
+<!--
 [Description](./description.md)
 
 [Connexion à la machine](./connexion.md)
@@ -18,3 +19,4 @@ En fonction de la nature d'un projet et du profil de ses applications, différen
 [Demande d'assistance](./assist.md)
 
 [Remerciements](./remerciements.md)
+-->
