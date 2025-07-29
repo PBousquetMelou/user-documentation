@@ -3,7 +3,7 @@ title: "Description"
 sidebar_position: 1
 ---
 
-# La machine code-formation Arctic
+# L'architecture d'Arctic
 
 Arctic comprend les sous-ensembles d'architecture :
 - 124 nœuds de calcul bi-socket AMD EPYC 9654 (Genoa, 96-Core par socket à 2,4 GHz) dotés chacun de 768 (24x 32) Go de RAM DDR5 à 4800 MHz
