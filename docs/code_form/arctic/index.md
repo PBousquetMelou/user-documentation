@@ -1,5 +1,5 @@
 ---
-title: "Arctic, la machine multi-architectures"
+title: "Arctic, multi-architectures"
 ---
 Parmi les entités de service « Code formation » de MesoNET, Arctic est matériellement hébergée par le cluster HPC régional (Austral) du mésocentre de Normandie, Criann.
 
