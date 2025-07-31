@@ -1,5 +1,5 @@
 ---
-title: "Espaces de travail et gestion des données"
+title: "Stockage"
 sidebar_position: 3
 ---
 
