@@ -1,5 +1,5 @@
 ---
-title: "Environnements logiciels d'Arctic"
+title: "Environnements logiciels"
 sidebar_position: 4
 ---
 
