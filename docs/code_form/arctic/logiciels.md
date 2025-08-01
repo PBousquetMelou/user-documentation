@@ -22,6 +22,6 @@ Les liens suivants décrivent les environnements spécifiques (Cray Programming 
 Les GPU AMD sont consacrés à des codes de simulation programmés par API HIP, OpenACC (FORTRAN et Cray Compiler uniquement), OpenMP target, SYCL ou OpenCL.
 
 ### Applications
-Des codes métier de référence sont aussi disponibles en mécanique et CFD (exemple : **OpenFOAM**), climat (exemple : **WRF**) ou simulation atomistique (exemple : **Gromacs**).
+Des codes métier de référence sont aussi disponibles pour différents domaines tels que mécanique et CFD (exemple : **OpenFOAM**), climat (exemple : **WRF**), simulation atomistique (exemple : **Gromacs**) ou mathématiques (exemple : **R**).
 
-Commandes utiles : `module avail cfd_fem`, `module avail climate`, `module avail atomic_simu`
+Voir les [commandes utiles](https://services.criann.fr/services/hpc/cluster-austral/guide/#logiciels-disponibles) (telles que `module load cfd_fem`, `module load atomic_simu`) permettant de lister les logicels disponibles par catégorie scientifique ou technique.
